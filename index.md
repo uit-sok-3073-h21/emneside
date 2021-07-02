@@ -4,16 +4,16 @@
 
 Kursplanen inneholder informasjon om tidspunkt, tema, faglærer, samt ressurser/oppgaver til hvert tema.  
 
-- [Forelesningsplan](forelesningsplan.md){:target="blank"}
-- [Seminarplan](seminarplan.md){:target="blank"}  
+[Kursplan](kursplan.md){:target="blank"}
+ 
 
 
-[Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"} på timeplan.uit.no
+[Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module[]=SOK-3073-1#week-26){:target="blank"} på timeplan.uit.no
 
 
 ## Kursbeskrivelse 
 
-Kurset tas normalt i tredje semester, og teller 10 studiepoeng.  
+Kurset tas normalt i tredje semester på masterstudiet, og teller 10 studiepoeng.  
 [Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=722319){:target="blank"}
 
 ## Faglærerinfo  
@@ -40,13 +40,9 @@ Frister, oppgaver og ressurser finnes i [evalueringsplanen](evalueringsplan.md){
 
 Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.  
 
-## Studentenes evaluering av kurset  
-
-Kurset evalueres av studenter midtveis i semesteret og ved kursets slutt. Nedenfor finner du detaljer om evalueringsmetodene.
-- Midtveis
-- Slutt
 
 
-## FAQ - Ofte stilte spørsmål og svar
 
-Se vår [FAQ side](faq.md){:target="blank"}.
+## Nyttige ressurser
+
+
