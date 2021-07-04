@@ -46,6 +46,7 @@ Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/l
 ## Nyttige ressurser  
 
 - [Retningslinjer for skriving av masteroppgaver ved UiTs Handelshøgskole](Retningslinjer for skriving av masteroppgaver, revidert oktober 2018.pdf){:target="blank"}.  
+- [Datakilder, populærvitenskapelig litteratur, blogger](nyttige_ressurser.md){:target="_blank"}
 
 
 
