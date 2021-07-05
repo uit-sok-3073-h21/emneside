@@ -2,7 +2,7 @@
 
 ## Datakilder  
 
-# Norske kilder
+### Norske kilder
 
 - [SSB statistikkbanken](https://www.ssb.no/statbank/){:target="_blank"}
 
@@ -10,7 +10,7 @@
 
 - [Kunnskapsbanken Nord-Norge](https://telleren.kbnn.no/){:target="_blank"}
 
-# Internasjonale kilder
+### Internasjonale kilder
 
 - [Eurostat database](https://ec.europa.eu/eurostat/data/database){:target="_blank"}
 
@@ -22,7 +22,7 @@
 
 - [Verdensbanken (World Bank Open data)](https://data.worldbank.org/){:target="_blank"}
 
-# Finans
+### Finans
 
 - [Titlon finansdatabase](https://titlon.uit.no/){:target="_blank"}
 
@@ -36,7 +36,7 @@
 
 ## Populærvitenskapelig litteratur
 
-# Norske
+### Norske
 
 - [Kunnskapsbanken Nord-Norge](https://www.kbnn.no/){:target="_blank"}
 
@@ -63,7 +63,7 @@
 - [Norges Handelshøyskole Fair Research Group](https://www.nhh.no/en/research-centres/fair/media/){:target="_blank"}  
 - 
 
-# Internasjonale
+### Internasjonale
 
 
 - [OECD iLibrary](https://www.oecd-ilibrary.org/?_ga=2.169009185.1025145744.1624962880-1319474104.1624962880){:target="_blank"}
