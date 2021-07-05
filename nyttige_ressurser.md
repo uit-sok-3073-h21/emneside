@@ -2,19 +2,27 @@
 
 ## Datakilder  
 
+# Norske kilder
+
 - [SSB statistikkbanken](https://www.ssb.no/statbank/){:target="_blank"}
 
 - [Norges Bank](https://www.norges-bank.no/tema/Statistikk/){:target="_blank"}
 
 - [Kunnskapsbanken Nord-Norge](https://telleren.kbnn.no/){:target="_blank"}
 
+# Internasjonale kilder
+
 - [Eurostat database](https://ec.europa.eu/eurostat/data/database){:target="_blank"}
 
 - [OECD database](https://data.oecd.org/){:target="_blank"}
 
+- [Our World in Data](https://ourworldindata.org/){:target="_blank"}
+
 - [International Monetary Fund database](https://www.imf.org/en/Data){:target="_blank"}
 
 - [Verdensbanken (World Bank Open data)](https://data.worldbank.org/){:target="_blank"}
+
+# Finans
 
 - [Titlon finansdatabase](https://titlon.uit.no/){:target="_blank"}
 
@@ -27,6 +35,8 @@
 
 
 ## Populærvitenskapelig litteratur
+
+# Norske
 
 - [Kunnskapsbanken Nord-Norge](https://www.kbnn.no/){:target="_blank"}
 
@@ -50,7 +60,10 @@
 
 - [Ny Analyse](https://www.nyanalyse.no/publikasjoner){:target="_blank"}
 
-- [Norges Handelshøyskole Fair Research Group](https://www.nhh.no/en/research-centres/fair/media/){:target="_blank"}
+- [Norges Handelshøyskole Fair Research Group](https://www.nhh.no/en/research-centres/fair/media/){:target="_blank"}  
+- 
+
+# Internasjonale
 
 
 - [OECD iLibrary](https://www.oecd-ilibrary.org/?_ga=2.169009185.1025145744.1624962880-1319474104.1624962880){:target="_blank"}
