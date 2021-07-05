@@ -65,7 +65,7 @@
 - [The Economist](https://www.economist.com/){:target="_blank"}
 
 
-##Blogger  
+## Blogger  
 
 - [Espen Sirnes](http://espensirnes.blogspot.com/){:target="_blank"}
 
