@@ -52,6 +52,10 @@
 
 - [Oslo Macro Group (koronavirus og norsk økonomi)](https://sites.google.com/site/oslomacro/covid-19){:target="_blank"}
 
+- [Norges Handelshøyskole Fair Research Group](https://www.nhh.no/en/research-centres/fair/media/){:target="_blank"}  
+
+#### Norske konsulentselskaper som skrive samfunnsøkonomiske utredninger  
+
 - [Vista Analyse](https://vista-analyse.no/no/publikasjoner/){:target="_blank"}
 
 - [Oslo Economics](https://osloeconomics.no/aktuelt/publikasjoner/){:target="_blank"}
@@ -60,8 +64,9 @@
 
 - [Ny Analyse](https://www.nyanalyse.no/publikasjoner){:target="_blank"}
 
-- [Norges Handelshøyskole Fair Research Group](https://www.nhh.no/en/research-centres/fair/media/){:target="_blank"}  
-- 
+- [Samfunnsøkonomisk analyse](https://www.samfunnsokonomisk-analyse.no/){:target="_blank"} 
+
+
 
 ### Internasjonale
 
