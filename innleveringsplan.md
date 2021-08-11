@@ -8,7 +8,7 @@
 |----------------|----------------------------------------------------------------------|-----------|
 |Arbeidskrav   | Muntlig presentasjon av selvvalgt artikkel                        | 10.09 kl. 12.15-14       |  
 |Arbeidskrav   | Skriftlig oppgave - faglig problemstilling og pensumliste                        | 22.10 kl. 14.00       |  
-|Arbeidskrav   | Muntlig presentasjon av problemstillingen                         | TBA      |   
+|Arbeidskrav   | Muntlig presentasjon av problemstillingen                         | 12.11 kl 12.15-14      |   
 |Mappe   | Skriftlig prosjektbeskrivelse                        | 01.12 kl. 16.00       |    
 
 
