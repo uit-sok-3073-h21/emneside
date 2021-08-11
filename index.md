@@ -20,6 +20,9 @@ Kurset tas normalt i tredje semester på masterstudiet, og teller 10 studiepoeng
 
 [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
   
+## Pensum
+
+Anebfalt litteratur i [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/public/47BIBSYS_UBTO/lists/8510166510002205?auth=SAML){:target="blank"}  
 
 
 ## Kunngjøringer  
