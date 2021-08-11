@@ -2,7 +2,7 @@
 
 ## Kursplan  
 
-Kursplanen inneholder informasjon om tidspunkt, tema, faglærer, samt ressurser/oppgaver til hvert tema.  
+Kursplanen inneholder informasjon om tidspunkt, tema, faglærer, samt evt. ressurser/oppgaver til hvert tema.  
 
 [Kursplan](kursplan.md){:target="blank"}
  
@@ -21,11 +21,6 @@ Kurset tas normalt i tredje semester på masterstudiet, og teller 10 studiepoeng
 [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
   
 
-## Pensum  
-
-[Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="blank"}  
-
-
 
 ## Kunngjøringer  
 
@@ -36,7 +31,7 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/cou
 
 Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
 
-Frister, oppgaver og ressurser finnes i [evalueringsplanen](evalueringsplan.md){:target="blank"}.    
+Frister, oppgaver og ressurser finnes i [innleveringsplanen](innleveringsplan.md){:target="blank"}.    
 
 Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.  
 
