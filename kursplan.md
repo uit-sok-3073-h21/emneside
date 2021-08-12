@@ -14,6 +14,7 @@
 |F10 24.09 kl 12.15-14     | Idéverksted | DC |   |
 |F11 01.10 kl 12.15-14   | Hvordan skrive masteroppgaven?  | DC |   |
 |F12 15.10 kl 12.15-14  | Masteroppgaven A-F          | DC |  |
-|F13 22.10 kl 12.15-14  | Presentasjon av faglig problemstilling  | DC |   | 
+|F13 22.10 kl 12.15-14  | Presentasjon av faglig problemstilling (arbeidskrav) | DC |   |
+|F14 12.11 kl 10.15-12  | Muntlig presentasjon av problemstillingen (arbeidskrav) | DC |   |
 
 Alle timer finner sted på Handelshøgskolen:  HHT 02.216
