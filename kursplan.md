@@ -2,7 +2,7 @@
 
 | Forelesning <img width=220/>   | Tema <img width=300/>         | Lærer  | Ressurser <img width=200/>  |
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-|F1 20.08 kl 12.15-14 | Innledning. Hvordan finne tema og problemstilling?                        | DC       |    |
+|F1 20.08 kl 12.15-14 | Innledning. Hvordan finne tema og problemstilling?                        | DC       | [Notater](forelesninger/SOK-3073 F1 h21.pdf){:target="_blank"} <br /> NB. Oppgave på siste slide! <br /> [Greenlaw, 2006, kap 1, 2](greenlaw-2006-doing-economics ch 1 and 2.pdf){:target="_blank"}    |
 |F2 27.08 kl 12.15-14 | Forskningsverktøyet Keenious | Jesper Solheim Johansen |    |
 |F3  30.08 kl 10.15-12 | Kildekritikk og akademisk redelighet          | Helene N. Andreassen, UB        |  |
 |F4 02.09 kl 10.15-12   | Literatursøk | Åsne Ø. Høgetveit, UB |  |
