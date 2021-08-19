@@ -1,7 +1,7 @@
 ## Innleveringsplan  
 
-- Arbeidskrav er obligatoriske. Karakter settes ikke på disse.
-- Mappeoppgaver er obligatoriske, og danner grunnlag for karakter A-F på kurset.  
+- Arbeidskrav er obligatoriske. Disse leveres i [Canvas](https://uit.instructure.com/courses/22631){:target="blank"}. Karakter settes ikke på disse.
+- Mappeoppgaven er obligatorisk, og teller 100% for karakter A-F på kurset. Mappeoppgaven leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.    
 
 
 | Type oppgave <img width=80/>   |  Oppgave  <img width=300/>       | Innleveringsfrist <img width=80/> |
