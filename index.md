@@ -36,7 +36,7 @@ Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_
 
 Frister, oppgaver og ressurser finnes i [innleveringsplanen](innleveringsplan.md){:target="blank"}.    
 
-Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.  
+
 
 
 
