@@ -6,7 +6,7 @@
 |F2 27.08 kl 12.15-14 | Forskningsverktøyet Keenious | Jesper Solheim Johansen |    |
 |F3  30.08 kl 10.15-12 | Kildekritikk og akademisk redelighet          | Helene N. Andreassen, UB        | [Notater](SOK-3073_2021_Kildekritikk-ak-dannelse.pdf){:target="_blank"} <br /> [Publikasjonsliste Norge](https://dbh.nsd.uib.no/publiseringskanaler/Forside){:target="_blank"}   |
 |F4 02.09 kl 10.15-12   | Literatursøk | Åsne Ø. Høgetveit, UB |  |
-|F5 03.09 kl 12.15-14   | Hvordan lese artikler?    | DC       |  |
+|F5 03.09 kl 12.15-14   | Hvordan lese artikler?    | DC       | [Notater](forelesninger/SOK-3073 F5 h21.pdf){:target="_blank"}  |
 |F6 10.09 kl 12.15-14      | Artikkelpresentasjon (arbeidskrav)  | DC |   |
 |F7 17.09 kl 10.15-12 | Endnote | Åsne Ø. Høgetveit, UB       |  |
 |F8 17.09 kl 12.15-14    | Én til én veiledning  | DC  |   |
