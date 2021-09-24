@@ -22,6 +22,8 @@
 
 - [Verdensbanken (World Bank Open data)](https://data.worldbank.org/){:target="_blank"}
 
+- [European Social Survey](https://www.europeansocialsurvey.org/){:target="_blank"}   
+
 ### Finans
 
 - [Titlon finansdatabase](https://titlon.uit.no/){:target="_blank"}
