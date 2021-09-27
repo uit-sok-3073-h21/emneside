@@ -12,8 +12,8 @@
 |F8 17.09 kl 12.15-14    | Én til én veiledning  | DC  |   |
 |F9 23.09 kl 10.15-12     | Muntlige presentasjonsteknikker            | Helene N. Andreassen, UB |   |
 |F10 24.09 kl 12.15-14     | Idéverksted | DC | [Ressurser](ideverksted.md){:target="_blank"}   |
-|F11 01.10 kl 12.15-14   | Hvordan skrive masteroppgaven?  | DC |   |
-|F12 15.10 kl 12.15-14  | Masteroppgaven A-F          | DC |  |
+|F11 01.10 kl 12.15-14   | Masteroppgaven A-F  | DC |   |
+|F12 15.10 kl 12.15-14  | Veiledning          | DC |  |
 |F13 22.10 kl 12.15-14  | Presentasjon av faglig problemstilling (arbeidskrav) | DC |   |
 |F14 12.11 kl 12.15-14<br/> NB 02.218 Markedsføreren  | Muntlig presentasjon av problemstillingen (arbeidskrav) | DC |   |
 
