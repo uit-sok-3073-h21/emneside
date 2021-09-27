@@ -11,7 +11,7 @@
 |F7 17.09 kl 10.15-12 | Endnote | Åsne Ø. Høgetveit, UB       |  |
 |F8 17.09 kl 12.15-14    | Én til én veiledning  | DC  |   |
 |F9 23.09 kl 10.15-12     | Muntlige presentasjonsteknikker            | Helene N. Andreassen, UB |   |
-|F10 24.09 kl 12.15-14     | Idéverksted | DC |   |
+|F10 24.09 kl 12.15-14     | Idéverksted | DC | [Ressurser](ideverksted.md){:target="_blank"}   |
 |F11 01.10 kl 12.15-14   | Hvordan skrive masteroppgaven?  | DC |   |
 |F12 15.10 kl 12.15-14  | Masteroppgaven A-F          | DC |  |
 |F13 22.10 kl 12.15-14  | Presentasjon av faglig problemstilling (arbeidskrav) | DC |   |
